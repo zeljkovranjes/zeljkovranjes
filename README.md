@@ -50,7 +50,7 @@
 [Ark](https://github.com/chomnr/ark) — A basic identity access management application that utilizes Role-based and permission-based access control uses Rust, OAuth, PostgreSQL, and Redis. (**Archived**)
 <br>
 <br>
-[Credential Manager](https://github.com/chomnr/simplecredentialmanager) — A terminal-based credential manager built with C# and .NET 7, utilizing AES-256 encryption.
+[Credential Manager](https://github.com/chomnr/simplecredentialmanager) — A terminal-based credential manager built with C# and .NET 7, utilizing an symmetric encryption algorithm (AES 256).
 
 
 
