@@ -32,6 +32,8 @@
     <img width="55" height="20" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
     <img width="50" height="20" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
     <br>
+    <img width="65" height="20" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+    <br>
     <img width="65" height="20" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate">
     <img width="65" height="20" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
     <img width="65" height="20" src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM">
@@ -56,6 +58,8 @@
 <br>
 <br>
 [Credential Manager](https://github.com/chomnr/simplecredentialmanager) — A terminal-based credential manager built with C# and .NET 7, utilizing an symmetric encryption algorithm (AES 256).
+## Contact
+If you would like to discuss or collaborate on any projects feel free to contact me at
 
 
 
