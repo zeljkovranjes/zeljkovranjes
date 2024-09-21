@@ -42,5 +42,6 @@
 
 ## Projects
 [Brute](https://github.com/chomnr/brute) — An application that monitors login attempts from your SSH server, built with Rust, Actix-web, and PostgreSQL.
+<br>
 [Sorrow](https://github.com/chomnr/sorrow) — My interactive 3D portfolio website built using React, TypeScript and Three.js.
 
