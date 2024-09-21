@@ -37,5 +37,5 @@
     <br>
 </p>
 
-## (Placeholder
+## Placeholder
 (soon to be)
