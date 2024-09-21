@@ -44,7 +44,7 @@
 [Sorrow 2024](https://github.com/chomnr/sorrow) — An interactive 3D portfolio website built with React, React Three Fiber and Drei. Designed to showcase my programming abilities and feelings.
 <br>
 <br>
-[Brute](https://github.com/chomnr/brute) — An application that monitors login attempts from your SSH server, built with Rust, Actix-web, and PostgreSQL. Leveraged REST and WebSockets for real-time data.
+[Brute](https://github.com/chomnr/brute) — An application that monitors login attempts from your SSH server, built with Rust, Actix-web, and PostgreSQL. Leveraged REST and WebSockets for real-time data. [Live](https://brute.exposed/)
 <br>
 <br>
 [Ark](https://github.com/chomnr/ark) — A basic identity access management application that utilizes Role-based and permission-based access control uses Rust, OAuth, PostgreSQL, and Redis. (**Archived**)
