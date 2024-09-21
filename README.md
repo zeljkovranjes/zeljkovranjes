@@ -41,5 +41,4 @@
 </p>
 
 ## Projects
-[**Brute**][https://github.com/chomnr/brute) — test
-
+[I'm an inline-style link](https://www.google.com)
