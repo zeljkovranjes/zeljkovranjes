@@ -40,5 +40,7 @@
     <br>
 </p>
 
-## Placeholder
+## Projects
+
+## Recent Posts
 (soon to be)
