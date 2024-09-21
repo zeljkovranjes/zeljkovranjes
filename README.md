@@ -50,6 +50,9 @@
 [Ark](https://github.com/chomnr/ark) — A basic identity access management application that utilizes Role-based and permission-based access control uses Rust, OAuth, PostgreSQL, and Redis. (**Archived**)
 <br>
 <br>
+[Windows 7 Emulator](https://github.com/chomnr/win7-emulator) — A web-based Windows 7 emulator built in SvelteKit offers a rudimentary replication of the Windows 7 environment.
+<br>
+<br>
 [Credential Manager](https://github.com/chomnr/simplecredentialmanager) — A terminal-based credential manager built with C# and .NET 7, utilizing an symmetric encryption algorithm (AES 256).
 
 
