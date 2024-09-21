@@ -61,6 +61,7 @@
 ## Contact
 If you would like to discuss or collaborate on any projects feel free to contact me. I'm always looking for new opportunities
 <br>
+<br>
 <a href="mailto:zeljkovranjes@outlook.com" target="_blank">![Mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 )</a>
 
