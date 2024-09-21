@@ -59,7 +59,10 @@
 <br>
 [Credential Manager](https://github.com/chomnr/simplecredentialmanager) — A terminal-based credential manager built with C# and .NET 7, utilizing an symmetric encryption algorithm (AES 256).
 ## Contact
-If you would like to discuss or collaborate on any projects feel free to contact me at <samp><a href="mailto:zeljkovranjes@outlook.com">zeljkovranjes@outlook.com</a></samp>
+If you would like to discuss or collaborate on any projects feel free to contact me. I'm always looking for new opportunities
+<a href="mailto:zeljkovranjes@outlook.com" target="_blank">![Mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+)</a>
+
 
 
 
