@@ -41,4 +41,4 @@
 </p>
 
 ## Projects
-[Brute](https://www.google.com)
+[Brute]([https://www.google.com](https://github.com/chomnr/brute)) —
