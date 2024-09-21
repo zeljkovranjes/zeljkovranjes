@@ -37,6 +37,6 @@
     <br>
 </p>
 
-## H1
-======
-...
+## (Placeholder)
+------
+(soon to be)
