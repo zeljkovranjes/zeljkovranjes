@@ -43,6 +43,9 @@
 </p>
 
 ## Projects
+### Frontend
+### Backend
+### Full Stack
 [Sorrow 2024](https://github.com/chomnr/sorrow) — An interactive 3D portfolio website built with React, React Three Fiber and Drei. Designed to showcase my programming abilities and feelings. [Live](https://zeljkovranjes.com/)
 <br>
 <br>
