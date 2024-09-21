@@ -41,6 +41,3 @@
 </p>
 
 ## Projects
-
-## Recent Posts
-(soon to be)
