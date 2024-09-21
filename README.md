@@ -15,7 +15,7 @@
     <img width="55" height="20" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS">
     <img width="55" height="20" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="VueJS">
     <img width="55" height="20" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
-    <img width="55" height="20" src="https://img.shields.io/badge/SvelteKit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit">
+    <img width="60" height="20" src="https://img.shields.io/badge/SvelteKit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit">
     <img width="55" height="20" src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
     <br>
     <img width="65" height="20" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
