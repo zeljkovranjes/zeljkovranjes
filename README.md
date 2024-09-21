@@ -47,5 +47,5 @@
 [Brute](https://github.com/chomnr/brute) — An application that monitors login attempts from your SSH server, built with Rust, Actix-web, and PostgreSQL. Leveraged REST and WebSockets for real-time data.
 <br>
 <br>
-[Ark](https://github.com/chomnr/ark) — A basic identity access management application that utilizes Role-based and permission-based access control uses Rust, OAuth, PostgreSQL, and Redis.
+[Ark](https://github.com/chomnr/ark) — A basic identity access management application that utilizes Role-based and permission-based access control uses Rust, OAuth, PostgreSQL, and Redis. **Archived**
 
