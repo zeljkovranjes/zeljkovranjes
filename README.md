@@ -41,7 +41,7 @@
 </p>
 
 ## Projects
-[Sorrow 2024](https://github.com/chomnr/sorrow) — An interactive 3D portfolio website built with React, React Three Fiber and Drei. Designed to showcase my programming abilities and feelings.
+[Sorrow 2024](https://github.com/chomnr/sorrow) — An interactive 3D portfolio website built with React, React Three Fiber and Drei. Designed to showcase my programming abilities and feelings. [Live](https://zeljkovranjes.com/)
 <br>
 <br>
 [Brute](https://github.com/chomnr/brute) — An application that monitors login attempts from your SSH server, built with Rust, Actix-web, and PostgreSQL. Leveraged REST and WebSockets for real-time data. [Live](https://brute.exposed/)
@@ -50,7 +50,7 @@
 [Ark](https://github.com/chomnr/ark) — A basic identity access management application that utilizes Role-based and permission-based access control uses Rust, OAuth, PostgreSQL, and Redis. (**Archived**)
 <br>
 <br>
-[Windows 7 Emulator](https://github.com/chomnr/win7-emulator) — A web-based Windows 7 emulator built in SvelteKit offers a rudimentary replication of the Windows 7 environment.
+[Windows 7 Emulator](https://github.com/chomnr/win7-emulator) — A web-based Windows 7 emulator built in SvelteKit offers a rudimentary replication of the Windows 7 environment. [Live](https://windows7-remake.vercel.app/)
 <br>
 <br>
 [Credential Manager](https://github.com/chomnr/simplecredentialmanager) — A terminal-based credential manager built with C# and .NET 7, utilizing an symmetric encryption algorithm (AES 256).
