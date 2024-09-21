@@ -41,4 +41,4 @@
 </p>
 
 ## Projects
-[Brute](https://github.com/chomnr/brute) — yes
+[Brute](https://github.com/chomnr/brute) — An application that monitors login attempts from your SSH server, built with Rust, Actix-web, and PostgreSQL
