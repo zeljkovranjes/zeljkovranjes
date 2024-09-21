@@ -19,6 +19,6 @@
     <img width="65" height="20" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     <img width="65" height="20" src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="DynamoDB">
     <img width="65" height="20" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
-    <img width="65" height="20" src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="ElasticSearch">
+    <img width="70" height="20" src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="ElasticSearch">
 
 </p>
