@@ -41,4 +41,4 @@
 </p>
 
 ## Projects
-([Brute](https://github.com/chomnr/brute) — yes
+[Brute](https://github.com/chomnr/brute) — yes
