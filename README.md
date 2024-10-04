@@ -48,6 +48,9 @@
 <br>
 <br>
 [Brute](https://github.com/chomnr/brute) — An application that monitors login attempts from your SSH server, built with Rust, Actix-web, and PostgreSQL. Leveraged REST and WebSockets for real-time data. [Live](https://brute.exposed/)
+<br>
+<br>
+[Brute](https://github.com/chomnr/win7-emulator) — A web-based Windows 7 emulator built with SvelteKit and TypeScript. [Live](https://windows7-remake.vercel.app/)
 ## Contact
 If you would like to discuss or collaborate on any projects feel free to contact me at <samp><a href="mailto:zeljkovranjes@outlook.com">zeljkovranjes@outlook.com</a></samp> , I'm always open to exploring new opportunities for growth and collaboration.
 
