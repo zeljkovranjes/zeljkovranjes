@@ -42,6 +42,7 @@
     <img width="65" height="20" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache">
     <br>
 </p>
+<p align="right">and more...</p>
 
 Projects
 *  [Vault](https://github.com/chomnr/vault) — One user, multiple vaults. A password manager project built with Next.js, MongoDB, Prisma ORM and TypeScript [Live](https://vault.pointless.ai/)
