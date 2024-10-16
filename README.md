@@ -56,8 +56,8 @@
 [Windows 7 Emulator](https://github.com/chomnr/win7-emulator) — A web-based Windows 7 emulator built with SvelteKit and TypeScript. [Live](https://windows7-remake.vercel.app/)
 
 Additional Information
-* test.
-If you would like to discuss or collaborate on any projects feel free to contact me at <samp><a href="mailto:zeljkovranjes@outlook.com">zeljkovranjes@outlook.com</a></samp> , I'm always open to exploring new opportunities for growth and collaboration.
+* Website: [zeljkovranjes.com](https://zeljkovranjes.com/)
+
 
 
 
