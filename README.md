@@ -53,6 +53,7 @@ Projects
 *  [Windows 7 Emulator](https://github.com/chomnr/win7-emulator) — A web-based Windows 7 emulator built with SvelteKit and TypeScript. [Live](https://windows7-remake.vercel.app/)
 
 Additional Information
+* Email: <samp><a href="mailto:mail@zeljko.me">mail@zeljko.me</a></samp>
 * Website: [zeljkovranjes.com](https://zeljkovranjes.com/)
 
 
