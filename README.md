@@ -1,1 +1,1 @@
-autodidact software engineer/developer; i enjoy creating and building things in my spare time —<br>from cloud-capable applications to creative open-source projects, and of course, tools that improve developers’ experiences.
+autodidact software engineer/developer; i build apps, open-source projects, <br>and tools that improve developers’ experiences in my spare time.
