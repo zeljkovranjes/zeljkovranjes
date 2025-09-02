@@ -2,6 +2,7 @@ autodidact software (engineer/developer); i build fun apps, open-source projects
 <br>
 <br>
 you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
+***
 ### projects
 - **[vault](https://github.com/zeljkovranjes/vault)** — store and manage important credentials securely.  
 - **[brute](https://github.com/zeljkovranjes/brute)** — monitors ssh login attempts in real-time.  
