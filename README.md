@@ -9,8 +9,7 @@ you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 - **[brute](https://github.com/zeljkovranjes/brute)** — monitors ssh login attempts in real-time.  
 - **[windows 7 emulator](https://github.com/zeljkovranjes/win7-emulator)** — basic web-based windows 7 emulator.
 ***
-### connect
-- [zeljkovranjes.com](https://zeljkovranjes.com)
-- [x](https://x.com/zeljko404)
-- <a href="mailto:hello@zeljko.me">email</a>
-
+### network
+- **[website](https://zeljkovranjes.com)**
+- **[x / twitter](https://x.com/zeljko404)**
+- **[email](mailto:hello@zeljko.me)**
