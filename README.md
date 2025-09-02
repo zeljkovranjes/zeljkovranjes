@@ -7,5 +7,5 @@ you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 - **[vault](https://github.com/zeljkovranjes/vault)** — store and manage important credentials securely.  
 - **[brute](https://github.com/zeljkovranjes/brute)** — monitors ssh login attempts in real-time.  
 - **[windows 7 emulator](https://github.com/zeljkovranjes/win7-emulator)** — basic web-based windows 7 emulator.
-#### developer projects
+#### more
 - **[solid-circle-flags](https://github.com/zeljkovranjes/solid-circle-flags)** — solidjs wrapper for 300+ circular country flags.
