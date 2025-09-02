@@ -5,8 +5,6 @@ you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 <br>
 <br>
 Projects
-*  [Vault](https://github.com/chomnr/vault) — One user, multiple vaults. A credential manager project built with Next.js, MongoDB, Prisma ORM and TypeScript.
-  
-*  [Brute](https://github.com/chomnr/brute) — An application that monitors login attempts from your SSH server, built with Rust, Actix-web, and PostgreSQL. Leveraged REST and WebSockets for real-time data.
-
-*  [Windows 7 Emulator](https://github.com/chomnr/win7-emulator) — A web-based Windows 7 emulator built with SvelteKit and TypeScript. [Live](https://windows7-remake.vercel.app/)
+- **[vault](https://github.com/zeljkovranjes/vault)** — one user, multiple vaults credential manager.  
+- **[brute](https://github.com/zeljkovranjes/brute)** — monitors ssh login attempts in real-time.  
+- **[windows 7 emulator](https://github.com/zeljkovranjes/win7-emulator)** — web-based windows 7 emulator, fully functional.
