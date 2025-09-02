@@ -13,5 +13,5 @@ you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 ### connect
 - [zeljkovranjes.com](https://zeljkovranjes.com)
 - [x](https://x.com/zeljko404)
-- <a href="mailto:hello@zeljko.me">email</a>.
+- <a href="mailto:hello@zeljko.me">email</a>
 
