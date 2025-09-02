@@ -10,7 +10,7 @@ you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 - **[windows 7 emulator](https://github.com/zeljkovranjes/win7-emulator)** — basic web-based windows 7 emulator.
 ***
 ### network
-- [zeljko.me](https://zeljko.me)  
+- [zeljko.me](https://zeljko.me) — flashy personal website.
 - [x / twitter](https://x.com/zeljko404)
 - [blog](https://blog.zeljko.me)  
 - [email](mailto:hello@zeljko.me)
