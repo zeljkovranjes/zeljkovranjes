@@ -4,6 +4,7 @@ autodidact software (engineer/developer); i build fun apps, open-source projects
 you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 ***
 ### projects
+- **[pebble](https://github.com/zeljkovranjes/pebble)** — minimal license manager
 - **[solid-circle-flags](https://github.com/zeljkovranjes/solid-circle-flags)** — solidjs wrapper for 300+ circular country flags
 - **[vault](https://github.com/zeljkovranjes/vault)** — store and manage important credentials securely
 - **[brute](https://github.com/zeljkovranjes/brute)** — monitors ssh login attempts in real-time
