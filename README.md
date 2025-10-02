@@ -4,7 +4,7 @@ autodidact software (engineer/developer); i build fun apps, open-source projects
 you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 ***
 ### projects
-- **[brzo](https://github.com/zeljkovranjes/mono)** — monolith saas boilerplate
+- **[mono](https://github.com/zeljkovranjes/mono)** — monolith saas boilerplate
 - **[brzo](https://github.com/zeljkovranjes/brzo)** — minimal saas boilerplate
 - **[pebble](https://github.com/zeljkovranjes/pebble)** — minimal license manager
 - **[solid-circle-flags](https://github.com/zeljkovranjes/solid-circle-flags)** — solidjs wrapper for 300+ circular country flags
