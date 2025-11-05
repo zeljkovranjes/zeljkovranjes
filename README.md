@@ -10,7 +10,7 @@ you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 - **[solid-circle-flags](https://github.com/zeljkovranjes/solid-circle-flags)** — solidjs wrapper for 300+ circular country flags
 - **[vault](https://github.com/zeljkovranjes/vault)** — store and manage important credentials securely [preview](https://vault.zeljko.me/)
 - **[brute](https://github.com/zeljkovranjes/brute)** — monitors ssh login attempts in real-time
-- **[windows 7 emulator](https://github.com/zeljkovranjes/win7-emulator)** — basic web-based windows 7 emulator [preview](https://windows7-remake.vercel.app/)
+- **[windows 7 emulator](https://github.com/zeljkovranjes/win7-emulator)** — basic web-based windows 7 emulator [preview](https://win7.zeljko.me/)
 ***
 ### network
 - [zeljko.me](https://zeljko.me) — personal website
