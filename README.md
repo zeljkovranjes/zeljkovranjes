@@ -13,5 +13,5 @@ you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 ***
 ### network
 - [zeljko.me](https://zeljkovranjes.com) — personal website
-- [blog](https://blog.zeljko.me) — my blog
+- [blog](https://blog.zeljkovranjes.me) — my blog
 - [email](mailto:hello@zeljko.me)
