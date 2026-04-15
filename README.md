@@ -4,7 +4,7 @@ autodidact software (engineer/developer); i build fun apps, open-source projects
 you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 ***
 ### projects
-- **[bleedingmap](bleedingmap.com)** — An interactive map presenting structured data on serial killer cases and their geographic patterns.
+- **[bleedingmap](https://bleedingmap.com)** — An interactive map presenting structured data on serial killer cases and their geographic patterns.
 - **[ipinfo-round-robin-api](https://github.com/zeljkovranjes/ipinfo-round-robin-api)** — Round-robin HTTP proxy for IPInfo API keys to bypass rate limits. [preview](https://geo-api.zeljko.me/)
 - **[pebble](https://github.com/zeljkovranjes/pebble)** — minimal license manager
 - **[solid-circle-flags](https://github.com/zeljkovranjes/solid-circle-flags)** — solidjs wrapper for 300+ circular country flags
