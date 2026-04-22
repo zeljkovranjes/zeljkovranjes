@@ -9,7 +9,7 @@ you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 - **[pebble](https://github.com/zeljkovranjes/pebble)** — minimal license manager
 - **[solid-circle-flags](https://github.com/zeljkovranjes/solid-circle-flags)** — solidjs wrapper for 300+ circular country flags
 - **[vault](https://github.com/zeljkovranjes/vault)** — store and manage important credentials securely [preview](https://vault.zeljko.me/)
-- **[brute](https://github.com/zeljkovranjes/brute)** — monitors ssh login attempts in real-time [preview](https://brute.zeljko.me/)
+- **[brute](https://github.com/zeljkovranjes/brute)** — monitors ssh login attempts in real-time
 - **[ark](https://github.com/zeljkovranjes/ark)** — simpe iam rbac system /w redis caching (lru)
 - **[windows 7 emulator](https://github.com/zeljkovranjes/win7-emulator)** — basic web-based windows 7 emulator [preview](https://win7.zeljko.me/)
 ***
