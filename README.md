@@ -6,7 +6,7 @@ you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 ### projects
 - **[bleedingmap](https://bleedingmap.com)** — An interactive map presenting structured data on serial killer cases and their geographic patterns.
 - **[ipinfo-round-robin-api](https://github.com/zeljkovranjes/ipinfo-round-robin-api)** — Round-robin HTTP proxy for IPInfo API keys to bypass rate limits. [preview](https://geo-api.zeljko.me/)
-- **[pebble](https://github.com/zeljkovranjes/pebble)** — minimal license manager
+- **[pebble](https://github.com/zeljkovranjes/pebble)** — minimal license manager.
 - **[solid-circle-flags](https://github.com/zeljkovranjes/solid-circle-flags)** — solidjs wrapper for 300+ circular country flags
 - **[vault](https://github.com/zeljkovranjes/vault)** — store and manage important credentials securely [preview](https://vault.zeljko.me/)
 - **[brute](https://github.com/zeljkovranjes/brute)** — monitors ssh login attempts in real-time
