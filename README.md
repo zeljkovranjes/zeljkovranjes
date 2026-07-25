@@ -5,7 +5,7 @@ you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 ***
 ### projects
 - **[supabase-console](https://github.com/zeljkovranjes/supabase-console)** — A multi-tenant control panel for provisioning and managing Supabase instances
-- **[humanoid-retargeter](https://github.com/zeljkovranjes/pebble)** — retarget a variety of different animation presets onto any humanoid model for s&box.
+- **[humanoid-retargeter](https://github.com/zeljkovranjes/humanoid-retargeter)** — retarget a variety of different animation presets onto any humanoid model for s&box.
 - **[auto-rigger](https://github.com/zeljkovranjes/auto-rigger)** — pure-C# deep-learning auto-rigger for s&box
 - **[vault](https://github.com/zeljkovranjes/vault)** — store and manage important credentials securely [preview](https://vault.zeljko.me/)
 - **[brute](https://github.com/zeljkovranjes/brute)** — monitors ssh login attempts in real-time
