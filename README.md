@@ -5,8 +5,8 @@ you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 ***
 ### projects
 - **[supabase-console](https://github.com/zeljkovranjes/supabase-console)** — A multi-tenant control panel for provisioning and managing Supabase instances
-- **[humanoid-retargeter](https://github.com/zeljkovranjes/pebble)** — retarget a variety of different animation presets onto any humanoid model..
-- **[solid-circle-flags](https://github.com/zeljkovranjes/solid-circle-flags)** — solidjs wrapper for 300+ circular country flags
+- **[humanoid-retargeter](https://github.com/zeljkovranjes/pebble)** — retarget a variety of different animation presets onto any humanoid model for s&box.
+- **[Auto Rigger](https://github.com/zeljkovranjes/auto-rigger)** — pure-C# deep-learning auto-rigger for s&box
 - **[vault](https://github.com/zeljkovranjes/vault)** — store and manage important credentials securely [preview](https://vault.zeljko.me/)
 - **[brute](https://github.com/zeljkovranjes/brute)** — monitors ssh login attempts in real-time
 - **[ark](https://github.com/zeljkovranjes/ark)** — simple iam rbac system /w redis caching (lru)
