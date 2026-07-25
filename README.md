@@ -4,7 +4,7 @@ autodidact software (developer); i build fun apps, open-source projects, <br>and
 you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 ***
 ### projects
-- **[ipinfo-round-robin-api](https://github.com/zeljkovranjes/ipinfo-round-robin-api)** — Round-robin HTTP proxy for IPInfo API keys to bypass rate limits. [preview](https://geo-api.zeljko.me/)
+- **[supabase-console](https://github.com/zeljkovranjes/supabase-console)** — A multi-tenant control panel for provisioning and managing Supabase instances
 - **[pebble](https://github.com/zeljkovranjes/pebble)** — minimal license manager.
 - **[solid-circle-flags](https://github.com/zeljkovranjes/solid-circle-flags)** — solidjs wrapper for 300+ circular country flags
 - **[vault](https://github.com/zeljkovranjes/vault)** — store and manage important credentials securely [preview](https://vault.zeljko.me/)
