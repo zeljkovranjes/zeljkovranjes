@@ -12,5 +12,8 @@ you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 - **[ark](https://github.com/zeljkovranjes/ark)** — simple iam rbac system /w redis caching (lru)
 - **[windows 7 emulator](https://github.com/zeljkovranjes/win7-emulator)** — basic web-based windows 7 emulator [preview](https://win7.zeljko.me/)
 ***
+
+### Research
+- **[l4d2-director-system-research](https://github.com/zeljkovranjes/l4d2-director-system-research)** — Technical breakdown of the l4d2 ai director.
 ### network
 - [email](mailto:hello@zeljko.me)
