@@ -15,5 +15,6 @@ you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 
 ### Research
 - **[l4d2-director-system-research](https://github.com/zeljkovranjes/l4d2-director-system-research)** — Technical breakdown of the l4d2 ai director.
+- **[aio-twobrains-system-research](https://github.com/zeljkovranjes/aio-twobrains-system-research)** — Technical breakdown of the alien isolation two brains ai.
 ### network
 - [email](mailto:hello@zeljko.me)
