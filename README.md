@@ -4,6 +4,7 @@ autodidact software (developer); i build fun apps, open-source projects, <br>and
 you can reach out to me at <a href="mailto:hello@zeljko.me">hello@zeljko.me</a>.
 ***
 ### projects
+- **[ory-studio](https://github.com/zeljkovranjes/supabase-console)** — self-hosted single tenant control panel for the ory stack
 - **[supabase-console](https://github.com/zeljkovranjes/supabase-console)** — A multi-tenant control panel for provisioning and managing Supabase instances
 - **[humanoid-retargeter](https://github.com/zeljkovranjes/humanoid-retargeter)** — retarget a variety of different animation presets onto any humanoid model for s&box
 - **[auto-rigger](https://github.com/zeljkovranjes/auto-rigger)** — pure-C# deep-learning auto-rigger for s&box
