@@ -2,7 +2,7 @@
 
 software developer building open-source tools, game systems, and experimental software.
 
-[github](https://github.com/zeljkovranjes) · [email](mailto:hello@zeljko.me)
+[email](mailto:hello@zeljko.me)
 
 ---
 
