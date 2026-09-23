@@ -11,9 +11,6 @@ software developer building open-source tools, game systems, and experimental so
 **[humanoid-retargeter](https://github.com/zeljkovranjes/humanoid-retargeter)**
 animation retargeting for s&box
 
-**[auto-rigger](https://github.com/zeljkovranjes/auto-rigger)**
-deep-learning auto-rigging for s&box
-
 **[sbox-two-brain-director](https://github.com/zeljkovranjes/sbox-two-brain-director)**
 two-layer AI system inspired by Alien: Isolation
 
